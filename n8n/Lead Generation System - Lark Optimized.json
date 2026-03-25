@@ -1,0 +1,1 @@
+{"nodes":[{"parameters":{"authentication":"none","appId":"cli_a94871ff15b89e18","baseId":"blk_69c2cde2b4804e1711def738","tableId":"tblDFzsIaWQZ41i3"},"name":"Lark","type":"n8n-nodes-base.lark","typeVersion":1},{"parameters":{"authentication":"none"},"name":"Another Node","type":"n8n-nodes-base.someOtherNode","typeVersion":1}]}
