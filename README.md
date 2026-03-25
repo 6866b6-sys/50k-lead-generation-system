@@ -1,4 +1,3 @@
-以下是为你翻译好的 GitHub README (Lark/飞书版) 中文文档。你可以直接复制到你的仓库中：
 🎯 获客系统 (Lark/飞书版)
 
     全自动 B2B 获客引擎：集成 Apollo.io、Google 搜索、LinkedIn 爬虫及 AI 自动评估，基于飞书多维表格（Lark Bitable）构建。
